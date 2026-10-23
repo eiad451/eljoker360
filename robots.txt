@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eiad451.github.io/eljoker360/sitemap.xml
